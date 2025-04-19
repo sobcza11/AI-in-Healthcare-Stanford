@@ -5,7 +5,7 @@
   <img src="https://github.com/sobcza11/AI-in-Healthcare-Stanford/blob/main/_supporting/med_sch.png" alt="Stanford Medical School">
 </p>
 
-Welcome to **AI in Healthcare**, a hands-on exploration of how data science and machine learning are reshaping the U.S. healthcare system.
+Welcome to **AI in Healthcare** from the Stanford Medicine, a hands-on exploration of how data science and machine learning are reshaping the U.S. healthcare system.
 
 In this repository, you'll journey through real-world applications of AI — from understanding clinical data and ethical challenges to building models that support equitable decision-making.
 
