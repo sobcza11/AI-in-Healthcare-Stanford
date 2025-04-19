@@ -9,7 +9,7 @@ Welcome to **AI in Healthcare** from **Stanford Medicine**, a hands-on explorati
 In this repository, you'll journey through real-world applications of AI — from understanding clinical data and ethical challenges to building models that support equitable decision-making.
 
 ### 🚑 What you'll discover inside:
-- The structure and payment models of U.S. healthcare (e.g., FFS, DRGs, capitation)  
+- The structure and payment models of U.S. healthcare (*e.g., FFS, DRGs, capitation*)  
 - How to mine and evaluate clinical data from EHRs, even when it's imperfect  
 - Hands-on machine learning workflows for classification, segmentation & risk prediction  
 - Real-world capstone projects simulating a patient’s care path from symptoms to treatment  
