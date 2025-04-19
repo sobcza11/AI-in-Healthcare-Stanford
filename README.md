@@ -17,5 +17,3 @@ In this repository, you'll journey through real-world applications of AI — fro
 - Regulatory and ethical considerations in deploying AI in clinical environments
 
 Whether you're a data scientist, healthcare analyst, or just curious about how AI can improve patient outcomes — *this repo is built to inspire, educate, and spark new ideas.*
-
-
