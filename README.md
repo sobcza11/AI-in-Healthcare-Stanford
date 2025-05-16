@@ -8,7 +8,7 @@ Welcome to **AI in Healthcare** from **Stanford Medicine** — a practical dive 
 
 This repository equips healthcare innovators to:
 
-- TDecode U.S. payment models (FFS, DRGs, capitation)  
+- TDecode U.S. payment models (<i>FFS, DRGs, capitation</i>)  
 - Extract actionable insight from real-world EHR data, despite missingness & bias  
 - Hands-on machine learning workflows for classification, segmentation & risk prediction  
 - Build risk stratification & diagnostic models tailored to clinical workflows  
