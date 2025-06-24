@@ -14,7 +14,7 @@ A **five-course series** completed through **Stanford University School of Medic
 ### Applied Capstone
 
 1. **GenAI's 2nd Opinion** | [**Full Capstone Repository**](https://github.com/sobcza11/genai-2nd-opinion)  
-   - <i>Deployed ClinicalBERT QA pipeline via FastAPI w/ OAuth2, TLS, FHIR logs & SHAP; CI/CD via GitHub Actions</i>
+   - <i>Deployed ClinicalBERT QA pipeline via FastAPI w/ OAuth2, TLS, FHIR-formatted logs & SHAP; CI/CD via GitHub Actions</i>
 
 ---
 
